@@ -13,6 +13,7 @@ Bold: 700
 Default: 1 
 small: 1.05 
 medium: 1.2
+large:1.8
 paragraph default: 1.6
 -- letter spacing
 -0.5px
@@ -53,6 +54,7 @@ Medium: 11px;
   box-sizing: border-box;
 }
 html {
+  /* 10/16 */
   font-size: 62.5%;
 }
 body {
@@ -185,6 +187,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1.6rem;
+  line-height: 1.2;
 }
 .list-item {
   font-size: 1.8rem;
