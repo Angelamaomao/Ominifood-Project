@@ -62,6 +62,7 @@ body {
   line-height: 1;
   font-weight: 400;
   columns: #555;
+  overflow-x: hidden;
 }
 /*************/
 /* GENERAL REUSABLE COMPONENTS */
