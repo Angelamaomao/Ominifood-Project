@@ -33,7 +33,7 @@
   transition: all 0.3s;
 }
 .main-nav-link:hover,
-.main-nav-active {
+.main-nav-link:active {
   color: #cf711f;
 }
 .main-nav-link.nav-cta:link,
